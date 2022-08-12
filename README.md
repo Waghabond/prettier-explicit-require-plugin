@@ -1,4 +1,4 @@
-# prettier-explicit-require-plugin
+# Prettier Plugin Explicit Require Bug
 Minimal reproduction of prettier bug: File extension globs not loaded when a plugin is required using require.resolve()
 
 ## Steps to Reproduce:
