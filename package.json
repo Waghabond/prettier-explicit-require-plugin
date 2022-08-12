@@ -1,0 +1,15 @@
+{
+    "name": "prettier-explicit-require-plugin",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "git@github.com:Waghabond/prettier-explicit-require-plugin.git",
+    "author": "Rohit Wagh <rohit_wagh@outlook.com>",
+    "license": "MIT",
+    "dependencies": {
+        "@prettier/plugin-php": "^0.18.9",
+        "@shufo/prettier-plugin-blade": "^1.5.2",
+        "prettier": "^2.7.1",
+        "prettier-plugin-sh": "^0.12.8"
+    },
+    "packageManager": "yarn@3.2.2"
+}
